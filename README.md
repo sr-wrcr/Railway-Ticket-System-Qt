@@ -1,5 +1,8 @@
 # Railway-Ticket-System-Qt
 
+## gitee仓库
+https://gitee.com/wang-rui-sr/railway-ticket-system-Qt.git
+
 # 铁路管理系统（C++ + Qt 图形界面）
 
 > 一个基于 **Qt 框架** 开发的铁路票务桌面应用，提供完整的用户端购票/退票/改签和管理端数据维护功能。
