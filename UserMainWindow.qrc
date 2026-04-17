@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Railway Ticket Management System">
+        <file>icon/eye_close.png</file>
+        <file>icon/eye_open.png</file>
+    </qresource>
+</RCC>

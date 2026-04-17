@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdminMainWindow" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCACAAABBAQ1AAgAQADiAAggUFACAgChMJAgAAAAAA=</HashCode>
+      <FileName>AdminMainWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InformationWindow" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAIAAAAAAgAgCAACAAAAACAABAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InformationWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginWindow" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAhEAkAAICAAAABEAAAYAAAAAgAAIAAkAAAA=</HashCode>
+      <FileName>LoginWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orders" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Ag2hAYAgAAAAEAAJEACgQACUQRCKKAgEAAAAAIQEAAA=</HashCode>
+      <FileName>Orders.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSet" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAQAhAAAAAQAAABEAAAAAAEAAAAAEgQAAAAAAAIg=</HashCode>
+      <FileName>OrderSet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderWindow" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAAAAAIkAAACAAAAgAIAEAACAAAgoIAgAAAAAA=</HashCode>
+      <FileName>OrderWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RegisterWindow" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAgCAAAAAAAACBABAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>RegisterWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Schedule" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASAoABAAACAACJABAAIAAAAEAgAAAAAAAkAOQBAAA=</HashCode>
+      <FileName>Schedule.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScheduleSet" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAQAAAAAAAAQAAAAAAgBEQgAAAIAASAg=</HashCode>
+      <FileName>ScheduleSet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Seats" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEBAAAAAAAAAAAJEgAACAAAAAACIAAFEAAAAJQAAAA=</HashCode>
+      <FileName>Seats.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeatSet" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAgIEEARAEAACIEAJIBAAAAgAFCABAJAAEBEA=</HashCode>
+      <FileName>SeatSet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stations" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAABEACAAAAAIAAAAgAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Stations.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StationSet" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAAQAAAABAAQAAEAAQCAAAAAEAgAAEAAEAAAAAABA=</HashCode>
+      <FileName>StationSet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TicketWindow" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQgAAAAAAAECCAAAAAAEAAAEAgSAAAwoAC4AgAAQA=</HashCode>
+      <FileName>TicketWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trains" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASgAAAAIAACEACIAEAAAAACARAACAAAAAAAAIQACAA=</HashCode>
+      <FileName>Trains.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainScheduleWindow" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAIKAAACCAAAAAAAEAUTAQAgIIAgAAAACA=</HashCode>
+      <FileName>TrainScheduleWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainSet" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAACIAQAAQAAAAAAAAAAAAAAAkREAQAAAAgAIAA=</HashCode>
+      <FileName>TrainSet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAhAAEgAAAQCAgBAQAAABAAgCGAEgggABAAggAAAAA=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserMainWindow" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAQAAAsACAAAAAAAAAAEACCAgAgIAAgAAAAAA=</HashCode>
+      <FileName>UserMainWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserSet" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAECAAAIAABAAQAAAIAAAAAAgQCAAIAkEAAAAAEAAAA=</HashCode>
+      <FileName>UserSet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TableType" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEhAAAAAAAAAAAAEAAAQAAAAEAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>AdminMainWindow.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
